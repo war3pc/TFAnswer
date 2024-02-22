@@ -10,9 +10,8 @@ Please read and understand this privacy policy carefully before using our produc
 
 We will only collect and use your user information for the business functions described in this policy. The purpose of collecting user information is to provide you with products or services. You have the right to choose whether to provide this information, but in most cases, if If you do not provide it, we may not be able to provide you with corresponding services or respond to your problems:
 
-       Camera-based functions: Used in products to answer questions, identify human head movements, Move your head to right ⇨ for giving TRUE answer to a sentence,
-     Move your head to left ⇦ for giving FALSE answer to a sentence..
-   For specific videos and details, please see: https://github.com/yosoybunal/FaceAnswer
+   ### Camera-based functions: Used in products to answer questions, identify human head movements, Move your head to right ⇨ for giving TRUE answer to a sentence, Move your head to left ⇦ for giving FALSE answer to a sentence..
+   ### For specific videos and details, please see: https://github.com/yosoybunal/FaceAnswer
 
 
 We guarantee that the collected user information will be de-identified or anonymized in accordance with the law. Information that cannot identify a natural person alone or combined with other information does not constitute personal information in the legal sense. If we combine non-personal information with other information to identify you personally, or use it in combination with your personal information, we will treat such information as your personal information in accordance with this Privacy Policy during the combined use period. Process and protect.
