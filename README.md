@@ -1,4 +1,4 @@
-There are two categories that have true and false questions. One need to move his/her face to right for giving true to a question or else move his/her face to the left for giving false to a question.
+A question judgment application where users answer questions by judging whether they are true or false. There are two types of questions: true questions and false questions. One needs to click the True button to answer the question, or the False button to answer the question.
 
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-23 at 09 49 18](https://github.com/war3pc/FaceAnswer/assets/5762141/a31441fa-6ebd-4965-b5bd-c1540a327a4d)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-23 at 09 49 40](https://github.com/war3pc/FaceAnswer/assets/5762141/f60de729-33bb-4ea2-b441-d23f5fdfc78a)
